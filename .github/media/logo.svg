@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <title>GeeCompare app icon</title>
+  <defs>
+    <linearGradient id="gc-band" x1="0" x2="1" y1="0" y2="0">
+      <stop offset=".18" stop-color="#e39a4c"/>
+      <stop offset=".82" stop-color="#4fb3b8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1024" height="1024" rx="232" fill="#1e1c19"/>
+  <rect x="26" y="26" width="972" height="972" rx="212" fill="none" stroke="#2a2723" stroke-width="4"/>
+  <!-- the connector between two corresponding changes -->
+  <path d="M360 336 C 520 336, 504 478, 664 478 L 664 688 C 504 688, 520 504, 360 504 Z" fill="url(#gc-band)"/>
+  <!-- the old version's change (ochre) and the new version's (teal): moved down and grown -->
+  <rect x="160" y="290" width="240" height="260" rx="52" fill="#e39a4c"/>
+  <rect x="624" y="430" width="240" height="304" rx="52" fill="#4fb3b8"/>
+</svg>
