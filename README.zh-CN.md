@@ -24,7 +24,7 @@
 
 <p align="center"><a href="https://geecompare.com/cn/"><img src=".github/media/demo-zh-dark.gif" alt="GeeCompare 的演示：文件夹比较、文本比较与三方合并" width="100%"></a></p>
 
-<table align="center"><tr><td align="center"><h3>15</h3><sub>种会话：文件夹、文本、表格、图片、文档…</sub></td><td align="center"><h3>12</h3><sub>类归档，免解压直接比，还能写回</sub></td><td align="center"><h3>5</h3><sub>SFTP · FTP/FTPS · S3 · WebDAV · SVN</sub></td><td align="center"><h3>3</h3><sub>macOS · Windows · Linux</sub></td></tr></table>
+<table align="center"><tr><td align="center"><h3>15</h3><sub>种会话：文件夹、文本、表格、图片、文档…</sub></td><td align="center"><h3>12</h3><sub>类归档，免解压直接比，还能写回</sub></td><td align="center"><h3>6</h3><sub>SFTP · FTP/FTPS · S3 · WebDAV · SVN · SMB</sub></td><td align="center"><h3>3</h3><sub>macOS · Windows · Linux</sub></td></tr></table>
 
 免费使用，无需注册。
 
@@ -73,7 +73,7 @@
 
 ## 哪来的都能比
 
-压缩包当文件夹用，zip、tar、tar.gz 和 7z 还能直接写回（写回前自动留 `.bak`）；SFTP、FTP/FTPS、S3、WebDAV、SVN 远程目录直接比，传输可断点续传；Git 的任意版本、文件系统快照、剪贴板，都是一侧的来源。
+压缩包当文件夹用，zip、tar、tar.gz 和 7z 还能直接写回（写回前自动留 `.bak`）；SFTP、FTP/FTPS、S3、WebDAV、SVN、SMB 远程目录直接比，传输可断点续传；Git 的任意版本、文件系统快照、剪贴板，都是一侧的来源。
 
 <table>
 <tr><td width="33%" align="center" valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset=".github/media/archive-zh-dark.jpg"><img src=".github/media/archive-zh-light.jpg" alt="把压缩包当文件夹比较并写回"></picture><br><sub>压缩包</sub></td><td width="33%" align="center" valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset=".github/media/remote-zh-dark.jpg"><img src=".github/media/remote-zh-light.jpg" alt="远程目录比较：连接配置与浏览"></picture><br><sub>远程</sub></td><td width="33%" align="center" valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset=".github/media/git-zh-dark.jpg"><img src=".github/media/git-zh-light.jpg" alt="把一侧切换成 Git 的某个版本"></picture><br><sub>Git 版本</sub></td></tr>

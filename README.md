@@ -24,7 +24,7 @@
 
 <p align="center"><a href="https://geecompare.com/"><img src=".github/media/demo-en-dark.gif" alt="A tour of GeeCompare: folder comparison, text comparison and a three-way merge" width="100%"></a></p>
 
-<table align="center"><tr><td align="center"><h3>15</h3><sub>kinds of session: folders, text, tables, pictures, documents…</sub></td><td align="center"><h3>12</h3><sub>archive families, compared in place and written back</sub></td><td align="center"><h3>5</h3><sub>SFTP · FTP/FTPS · S3 · WebDAV · SVN</sub></td><td align="center"><h3>3</h3><sub>macOS · Windows · Linux</sub></td></tr></table>
+<table align="center"><tr><td align="center"><h3>15</h3><sub>kinds of session: folders, text, tables, pictures, documents…</sub></td><td align="center"><h3>12</h3><sub>archive families, compared in place and written back</sub></td><td align="center"><h3>6</h3><sub>SFTP · FTP/FTPS · S3 · WebDAV · SVN · SMB</sub></td><td align="center"><h3>3</h3><sub>macOS · Windows · Linux</sub></td></tr></table>
 
 Free to use. No account needed.
 
@@ -73,7 +73,7 @@ Tables and Excel (several worksheets, key columns, tolerances, column mapping), 
 
 ## Wherever the files are
 
-Archives open as folders, and zip, tar, tar.gz and 7z are written back in place (with a `.bak` kept first). SFTP, FTP/FTPS, S3, WebDAV and SVN folders are compared where they are, with resumable transfers. Any revision in Git, a file system snapshot and the clipboard are sources too.
+Archives open as folders, and zip, tar, tar.gz and 7z are written back in place (with a `.bak` kept first). SFTP, FTP/FTPS, S3, WebDAV, SVN and SMB folders are compared where they are, with resumable transfers. Any revision in Git, a file system snapshot and the clipboard are sources too.
 
 <table>
 <tr><td width="33%" align="center" valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset=".github/media/archive-en-dark.jpg"><img src=".github/media/archive-en-light.jpg" alt="An archive compared as a folder and written back"></picture><br><sub>Archives</sub></td><td width="33%" align="center" valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset=".github/media/remote-en-dark.jpg"><img src=".github/media/remote-en-light.jpg" alt="A remote folder comparison: the connection and browsing it"></picture><br><sub>Remote</sub></td><td width="33%" align="center" valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset=".github/media/git-en-dark.jpg"><img src=".github/media/git-en-light.jpg" alt="Switching one side to a revision in Git"></picture><br><sub>Git revisions</sub></td></tr>
